@@ -1,4 +1,4 @@
-<h2> <img src="https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif" width="600" /> 
+<h2> <img src="https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif" width="1000" /> 
 <br> Hi,There! <img src="https://miro.medium.com/v2/resize:fit:1000/1*ZXQifyIny_o2bFmz1BBz3A.gif" width="30" /> I Am NURMISBA </h2>
 
 Hello my name is NURMISBA, I am from Planet Earth, just contact me via Telegram or Instagram,
