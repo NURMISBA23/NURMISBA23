@@ -1,4 +1,4 @@
-<h2> <img src="[https://user-images.githubusercontent.com/65858180/137293079-2440dbff-e887-4b1d-802c-49d49dcfd664.gif](https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif)" width="30" /> Hi,There! <img src="[https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif](https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif)" width="30" /> I Am NURMISBA </h2>
+<h2> <img src="https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif" width="30" /> Hi,There! <img src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif" width="30" /> I Am NURMISBA </h2>
 
 Hello my name is NURMISBA, I am from Planet Earth, just contact me via Telegram or Instagram,
 I am here to survive in a world full of smog.
