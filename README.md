@@ -5,7 +5,7 @@ Hello my name is NURMISBA, I am from Planet Earth, just contact me via Telegram 
 I am here to survive in a world full of smog.
 As the Russian philosopher Ayn Rand once said "If smog becomes a risk to human safety then you must always remember, that life in nature without technology is certain death".
 
-<img src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif" width="500" justify-content : "center">
+<img src="https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif" width="500" center >
 
 - 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
 - 🌱 I’m currently learning new things
