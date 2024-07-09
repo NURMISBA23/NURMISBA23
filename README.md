@@ -7,6 +7,6 @@ As the Russian philosopher Ayn Rand once said "If smog becomes a risk to human s
 
 <img src="https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif">
 
-- 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
+- 🔭 I’m currently working with many [COCONUT](https://coconut.or.id/contact)
 - 🌱 I’m currently learning new things
 - 📫 How to reach me: [Instagram](https://www.instagram.com/nurmisba07/)
